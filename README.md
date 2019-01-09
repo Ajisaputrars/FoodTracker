@@ -1,1 +1,1 @@
-# TRY-Food-Tracker
+# Food-Tracker
